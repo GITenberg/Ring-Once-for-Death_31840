@@ -1,0 +1,35 @@
+_repo: Ring-Once-for-Death_31840
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Barth, Ernie
+    alias: Barth
+    gutenberg_agent_id: '34043'
+    url: http://www.gutenberg.org/2009/agents/34043
+covers:
+- cover_type: archival
+  image_path: 31840-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Arthur, Robert
+    birthdate: 1909
+    deathdate: 1969
+    gutenberg_agent_id: '25995'
+    url: http://www.gutenberg.org/2009/agents/25995
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Arthur,_Jr.
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31840'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: Ring Once for Death
+url: http://www.gutenberg.org/ebooks/31840
