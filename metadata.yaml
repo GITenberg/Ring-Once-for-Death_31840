@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25995
     wikipedia: http://en.wikipedia.org/wiki/Robert_Arthur,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31840#Ring-Once-for-Death
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-03-31'
 gutenberg_type: Text
